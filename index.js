@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎮 Higienópolis Roleplay","📡 Bot online 24/7"];
+const statusMessages = ["🎮 Higienópolis Roleplay","🔧 Dev: _viegas_"];
 
 
 let currentIndex = 0;
